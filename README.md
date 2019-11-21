@@ -2,7 +2,7 @@
 
 ----
 ## Tasks
-* generate two follwing 8 patterns
+* generate the following 8 patterns
 
  ![](figures/image001.png)
 
