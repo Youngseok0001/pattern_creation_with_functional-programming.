@@ -67,7 +67,7 @@ comopse(Create Mirror,Create Mirror)(pattern) = \
 ---
 ## Inspired by
 
-* Lecture by John Hughes [link](https://www.google.com)
+* Lecture by John Hughes [link](https://www.youtube.com/watch?v=XrNdvWqxBvA&t=1549s)
 * Learn You a Haskell [link](http://learnyouahaskell.com/chapters)
 
 
